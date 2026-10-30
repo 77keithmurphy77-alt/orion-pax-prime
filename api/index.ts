@@ -9,12 +9,12 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         project: "Orion Pax Prime",
         chassis: "Cybertron Vanguard Text Baseline",
         telemetry: {
-            ledger_height: 19,
-            active_matrix: "Persistence_Verification_Plane",
-            recovered_security_policy: "GOV-D549E5C9",
-            multi_session_handshake_test: "PASSED_UNPRIVILEGED_VERIFICATION",
-            test_session_id: "TST-21B8D2A7"
+            ledger_height: 20,
+            active_matrix: "Intelligence_Service_Gateway",
+            gateway_session: "GWY-30F2168F",
+            remote_link_connected: true,
+            integrity_pass_token: "c0b0208b11941bb2..."
         },
-        timestamp: "2026-10-30T16:19:43.766756+00:00"
+        timestamp: "2026-10-30T16:21:13.503286+00:00"
     });
 }
