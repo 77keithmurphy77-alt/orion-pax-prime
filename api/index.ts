@@ -9,10 +9,11 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         project: "Orion Pax Prime",
         chassis: "Cybertron Vanguard Text Baseline",
         telemetry: {
-            ledger_height: 9,
-            active_matrix: "Psychology_Core_Engine",
-            last_query_trace: "artificial intelligence superintelligence alignment risks breakthroughs"
+            ledger_height: 10,
+            active_matrix: "Consensus_Mesh_Plane",
+            last_consensus_id: "CNS-5BD3828A",
+            verified_peers: 1
         },
-        timestamp: "2026-10-30T15:25:51.684219+00:00"
+        timestamp: "2026-10-30T15:28:53.468294+00:00"
     });
 }
