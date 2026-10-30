@@ -9,12 +9,13 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         project: "Orion Pax Prime",
         chassis: "Cybertron Vanguard Text Baseline",
         telemetry: {
-            ledger_height: 15,
-            active_matrix: "Strategic_Planning_Plane",
-            active_plan_id: "PLN-4E8BF36E",
-            projected_compute_cost_usd: 42.50,
-            projected_timeline_hours: 72.0
+            ledger_height: 16,
+            active_matrix: "Security_Governance_Bus",
+            security_policy_id: "GOV-D549E5C9",
+            permission_escalation_allowed: false,
+            emergency_shutdown_bus: "ARMED_READY",
+            intercept_signature: "2f5e5d6d44ba4a2b..."
         },
-        timestamp: "2026-10-30T15:54:33.578898+00:00"
+        timestamp: "2026-10-30T15:55:22.423210+00:00"
     });
 }
