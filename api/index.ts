@@ -10,11 +10,11 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         chassis: "Cybertron Vanguard Text Baseline",
         telemetry: {
             ledger_height: 19,
-            active_matrix: "Software_Engineering_Bus",
-            last_compiled_script: "payload_validator_util.py",
-            component_signature: "c9ce0d7af66e1754...",
-            sandbox_security_check: "PASSED"
+            active_matrix: "Persistence_Verification_Plane",
+            recovered_security_policy: "GOV-D549E5C9",
+            multi_session_handshake_test: "PASSED_UNPRIVILEGED_VERIFICATION",
+            test_session_id: "TST-21B8D2A7"
         },
-        timestamp: "2026-10-30T16:07:31.869924+00:00"
+        timestamp: "2026-10-30T16:19:43.766756+00:00"
     });
 }
